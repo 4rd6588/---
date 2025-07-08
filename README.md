@@ -44,5 +44,5 @@ DuoLa拥有以下主要功能：
 ### 安装步骤
 1. **克隆仓库**
    ```bash  
-   git clone https://github.com/<username>/DuoLa.git  
+   git clone https://github.com/Team-work-5/---/DuoLa.git  
    cd DuoLa  
