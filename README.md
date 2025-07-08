@@ -24,10 +24,12 @@ DuoLa拥有以下主要功能：
   - 健康数据分析及建议
 
 ##首页页面
+
 ![3ad8bfd84413fd63cbc848ff9f0159cc](https://github.com/user-attachments/assets/0466c354-bc1a-494c-892e-e39a52c9bd8c)
 
 
 ##DuoLa AI助手页面
+
 ![8fced639a226e51fc96d22596c3c9930](https://github.com/user-attachments/assets/a13d94d8-b4f6-4e70-a0c1-815dc0a89d62)
 
 
